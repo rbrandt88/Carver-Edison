@@ -3,7 +3,7 @@
 
 ## Pre 
 
-The tasks on my cluster in Amazon ECS are perpetually stuck in a pending state. The should have converted to running. I was not able to figure out why in the amount of time. I apologize for this. 
+The tasks on my cluster in Amazon ECS are perpetually stuck in a pending state. The should have converted to running. I was not able to figure out why in the amount of time. I apologize for my lack of AWS experience.  
 
 Even though I wasn't able to host the container on AWS in the time, I would like to thank you for considering me. I will persue learning more about AWS in my free time. 
 
