@@ -16,9 +16,9 @@ Learning and issues with the container deployment on AWS: 5 hours +
 
 ## How to run 
 
-1.Download the repository
+1. Download the repository
 
-2.From the root folder run the command: 
+2. From the root folder run the command: 
 
 	docker-compose up 
 
