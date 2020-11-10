@@ -7,8 +7,11 @@ The tasks on my cluster in Amazon ECS are perpetually stuck in a pending state w
 
 Even though I wasn't able to host the container on AWS in the time, I would like to thank you for considering me. I will persue learning more about AWS in my free time. 
 
-The python code: 3 hours
+
+Python code: 3 hours
+
 Learning Docker: 4 hours
+
 Learning and issues with the container deployment on AWS: 5 hours + 
 
 ## How to run 
