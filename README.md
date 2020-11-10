@@ -43,7 +43,7 @@ Example post request json:
 
 utils.py contains fill_database(). The manhattan excel data will be downloaded and inserted into the database 
 
-utils.py contains the plot function show_avg_sale_by_year(). It queries the database and plots the information in the bar a bar graph. 
+utils.py contains the plot function show_avg_sale_by_year(). It queries the database and plots the information on a bar graph.
 
 ## Average Sale Price By Year
 
