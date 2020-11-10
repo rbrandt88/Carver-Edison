@@ -22,11 +22,7 @@ Send a post requests to the endpoint: http://localhost:6001/api/get-properties-s
 
 Example post json: 
 
-{
-
-    "low": "0",
-	"high": "1000000000"
-}
+{ "low": "0", "high": "1000000000" }
 
 
 ## Average Sale Price By Year
