@@ -32,9 +32,9 @@ The following chain of events will happen:
 
 ## How to query
 
-Send a post requests to the endpoint: http://localhost:6001/api/get-properties-sold
+Send a post request to the endpoint: http://localhost:6001/api/get-properties-sold
 
-Example post json: 
+Example post request json: 
 
 	{ "low": "0", "high": "1000000000" }
 
