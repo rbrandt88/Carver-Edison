@@ -3,7 +3,7 @@
 
 ## Pre 
 
-The tasks on my cluster in Amazon ECS are perpetually stuck in a pending state when they should have converted to running. I was not able to figure out why in the amount of time I gave. I apologize for this. 
+The tasks on my cluster in Amazon ECS are perpetually stuck in a pending state. The should have converted to running. I was not able to figure out why in the amount of time. I apologize for this. 
 
 Even though I wasn't able to host the container on AWS in the time, I would like to thank you for considering me. I will persue learning more about AWS in my free time. 
 
@@ -25,7 +25,7 @@ Learning and issues with the container deployment on AWS: 5 hours +
 The following chain of events will happen: 
 
 1. docker-compose.yml will be executed
-2. Posgres will start and inicialize a database 
+2. Postgres will start and inicialize a database 
 3. The api service will wait for the database to become active
 4. After the all clear, the manhattan excel data will be downloaded and inserted into the database 
 5. A flask api service will start on port 6001
