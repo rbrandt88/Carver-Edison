@@ -20,7 +20,7 @@ Learning and issues with the container deployment on AWS: 5 hours +
 
 2. From the root folder run the command: 
 
-	docker-compose up 
+		docker-compose up 
 
 The following chain of events will happen: 
 
