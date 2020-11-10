@@ -3,11 +3,11 @@
 
 ## How to run 
 
--Download the repository
+1.Download the repository
 
--From the root folder run the command: 
+2.From the root folder run the command: 
 
-docker-compose up 
+	docker-compose up 
 
 The following chain of events will happen: 
 
