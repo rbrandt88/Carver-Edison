@@ -3,16 +3,7 @@
 
 ## Pre 
 
-The service on my Amazon ECS cluster is perpetually stuck in a pending state. It should have converted to running. I was not able to figure out why in the amount of time. I apologize for my lack of AWS experience.  
 
-Even though I wasn't able to host the container on AWS in the time, I would like to thank you for considering me. I will pursue learning more about AWS in my free time. 
-
-
-Python code: 3 hours
-
-Learning Docker: 4 hours
-
-Learning and issues with the docker container deployment on AWS: 5 hours + 
 
 ## How to run 
 
